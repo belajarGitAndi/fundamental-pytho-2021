@@ -1,1 +1,1 @@
-# fundamental-pytho-2021
+# fundamental-python-2021
